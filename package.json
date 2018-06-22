@@ -1,0 +1,18 @@
+{
+  "name": "durum",
+  "version": "2.0.0",
+  "description": "Dost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "nodemon": "^1.17.5",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl-core": "^0.20.4"
+  }
+}
